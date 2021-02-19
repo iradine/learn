@@ -1,1 +1,1 @@
-Dog is
+Dog is barking.
