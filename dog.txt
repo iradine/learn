@@ -1,1 +1,1 @@
-Dog is friendly.
+Dog is barking but friendly.
